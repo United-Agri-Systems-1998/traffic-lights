@@ -18,4 +18,4 @@ Traffic Light Program on Beckhoff Platform
 		○ Basic HMI design for lights and buttons (2 hours)
 		○ Testing and troubleshooting (2 hours)
 	• Resources
-    ○ Use the provided VM with Beckhoff installed (We will provide)
+    		○ Use the provided VM with Beckhoff installed (We will provide)
