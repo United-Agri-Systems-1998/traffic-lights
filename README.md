@@ -34,7 +34,7 @@ Create a traffic light control program using Beckhoff TwinCAT 3.
    - Ensure Beckhoff TwinCAT 3 is installed on your machine. Use the provided VM if necessary.
    
 2. **Project Structure:**
-   - Create a new project in TwinCAT 3.
+   - Create a new project in TwinCAT 3 or start from the master branch as a template.
    - Organize your code into sections for traffic light control, pedestrian crossing logic, and HMI design.
 
 3. **Traffic Light Control Logic:**
