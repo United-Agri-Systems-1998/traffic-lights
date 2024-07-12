@@ -281,3 +281,6 @@ _Boot/
 _CompileInfo/
 _Libraries/
 _ModuleInstall/
+# TwinCAT HMI, filter downloaded JSON schema files
+json-schema.org
+

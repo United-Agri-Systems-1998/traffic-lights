@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4026.7">
   <POU Name="MAIN" Id="{26d3c236-5f98-4519-8342-39688ffe2109}" SpecialFunc="None">
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
-	TestBOOL001:BOOL;
+	bTestLightGreen:BOOL;
+	bTestLightYellow:BOOL;
+	bTestLightRed:BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
